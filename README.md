@@ -12,7 +12,7 @@
 🌱 &nbsp;You can read my [Blogs](https://hashnode.com/@pratik1308).\
 💬 &nbsp;You can know about my Projects at [Portfolio](https://pratik-portfolio-9851.netlify.app).\
 ✉️ &nbsp;You can shoot me an email at sahap187@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1tXuGl7KCQpEoDFE7C98uHhfS6QwHLBxw/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1UlWm-NasahxnjHXRh9gIRPshBqDoCBcV/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   
   ### 🛠 &nbsp;Tech Stack
 
