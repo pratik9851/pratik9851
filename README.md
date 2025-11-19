@@ -10,7 +10,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently Learning Full Stack web developement.\
 🌱 &nbsp;You can read my [Blogs](https://hashnode.com/@pratik1308).\
-💬 &nbsp;You can know about my Projects at [Portfolio](https://pratik-portfolio-9851.netlify.app).\
+💬 &nbsp;You can know about my Projects at [Portfolio](https://pratik1308.netlify.app/).\
 ✉️ &nbsp;You can shoot me an email at sahap187@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1UlWm-NasahxnjHXRh9gIRPshBqDoCBcV/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   
